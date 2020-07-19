@@ -1,19 +1,27 @@
-# journey
+# ianblenkedfinityblog
 
-Welcome to your new journey project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+This is Ian Blenke's dfinity blog, a project following and building on Hans Larsen's "Hackin' on The Internet Computer" video series here:
 
-To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
+Episode 1 - "Phonebook"
+- https://www.youtube.com/watch?v=VRf369TwNqk
+- https://github.com/dfinity-lab/phonebook (archived)
+- https://github.com/dfinity/examples/tree/master/motoko/phone-book
 
-To learn more before you start working with journey, see the following documentation available online:
+Episode 2 - "Linkedup"
+- https://www.youtube.com/watch?v=PaiiQwVdjrM
+- https://github.com/dfinity-lab/linkedup
 
-- [Quick Start](https://sdk.dfinity.org/developers-guide/quickstart.html)
-- [Developer's Guide](https://sdk.dfinity.org/developers-guide)
-- [Language Reference](https://sdk.dfinity.org/language-guide)
+Episode 3-7 - "Blog"
+- https://www.youtube.com/watch?v=XcTvDmrWARA
 
-If you want to start working on your project right away, you might want to try the following commands:
+This is as much a learning project as it is a desire to start a blog following development of a blog hosted on The Internet Computer.
+
+You can get started locally as with any dfx project:
 
 ```bash
-cd journey/
+cd ianblenkedfinityblog/
 dfx help
 dfx config --help
 ```
+
+Watch this space!
