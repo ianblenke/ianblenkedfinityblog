@@ -13,6 +13,11 @@ Episode 2 - "Linkedup"
 
 Episode 3-7 - "Blog"
 - https://www.youtube.com/watch?v=XcTvDmrWARA
+- https://www.youtube.com/watch?v=qxm9UBTkXSU
+- https://www.youtube.com/watch?v=CzIQRjCxITE
+- https://www.youtube.com/watch?v=_jBgIrkhgws
+- https://www.youtube.com/watch?v=Ufh_1rHkg_E
+
 
 This is as much a learning project as it is a desire to start a blog following development of a blog hosted on The Internet Computer.
 
